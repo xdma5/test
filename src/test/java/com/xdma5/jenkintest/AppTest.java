@@ -1,4 +1,4 @@
-package com.xdma5.jenkintest-app;
+package com.xdma5.jenkintest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
